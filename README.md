@@ -7,11 +7,5 @@ This is a website to entertain and educate your toddlers.
 <h3>Learning:</h3> Young children are curious and always ready to learn. The slides are interactive and mimic the effect of flash cards. This section helps them learn about colours, shapes, alphabets, vegetables, fruits, animals in a fun way.
 
 <h3>OUTPUT</h3>
-![image](https://github.com/roshaniborkar/kidsZone/assets/58977139/8d5386ce-2cdd-44b9-bd29-4c2a9efe290e)
-![image](https://github.com/roshaniborkar/kidsZone/assets/58977139/2ce9d54e-7d14-45e1-bbe0-17aeaaf62306)
-![image](https://github.com/roshaniborkar/kidsZone/assets/58977139/367e2a6e-5a55-4521-8e05-e7c8d14b1039)
-![image](https://github.com/roshaniborkar/kidsZone/assets/58977139/67ec665c-b20c-498c-a8d8-601ef7075bd2)
-![image](https://github.com/roshaniborkar/kidsZone/assets/58977139/6d7f0cf2-379d-4646-a516-553af3aacd38)
-![image](https://github.com/roshaniborkar/kidsZone/assets/58977139/35d00de0-1624-4091-8294-772df642322e)
 
-![image](https://github.com/roshaniborkar/COLLEGE-VACCINE-REGISTRATION-RECORD/assets/58977139/173904e5-28aa-4952-90be-7811d35af00c)
+![image](https://github.com/roshaniborkar/kidsZone/assets/58977139/5f0419c1-6b61-4718-a579-ab18ffdca9dd)
