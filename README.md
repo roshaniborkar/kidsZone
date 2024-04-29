@@ -9,17 +9,17 @@ This is a website to entertain and educate your toddlers.
 <h3>OUTPUT</h3>
 <br>
 <br>
-<h2><b>HOME</b></h2>
+
 ![image](https://github.com/roshaniborkar/kidsZone/assets/58977139/5f0419c1-6b61-4718-a579-ab18ffdca9dd)
 <br>
 <br>
-<h2><b>GAMES</b></h2>
+
 ![image](https://github.com/roshaniborkar/kidsZone/assets/58977139/fbf5ca29-556b-487d-acbc-332bfeea1453)
 <br>
 <br>
-<h2><b>LEARNING</b></h2>
+
 ![image](https://github.com/roshaniborkar/kidsZone/assets/58977139/55788fd8-a99b-4a2f-8dd4-5a90174d8420)
 <br>
 <br>
-<h2><b>ABOUT ME</b></h2>
+
 ![image](https://github.com/roshaniborkar/kidsZone/assets/58977139/2253081f-d6a5-4406-848d-fea4a15118af)
